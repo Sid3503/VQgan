@@ -1,6 +1,6 @@
 # VQGAN: Vector Quantized Generative Adversarial Networks
 
-![VQGAN Example](https://github.com/user-attachments/assets/8cbd74ff-4733-4d00-a000-0d039ec26916)
+![VQGAN Example](https://github.com/user-attachments/assets/ed719176-2e25-41ae-a9c6-4ea008753ebf)
 
 ## What is VQGAN?
 
